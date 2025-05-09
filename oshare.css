@@ -286,12 +286,12 @@ footer a:hover {
 
   .skills {
     width: 100%;
-    grid-template-columns: repeat(auto-fit, 150px);
+    grid-template-columns: repeat(auto-fit, 140px);
     gap: 30px;
   }
 
   .skill-card {
-    width: 160px;
+    width: 140px;
     height: 200px;
   }
 
