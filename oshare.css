@@ -81,6 +81,10 @@ h3 {
   color: crimson;
 }
 
+.parallax {
+  background-attachment: fixed;
+}
+
 .section-home {
   background-image: url('BGs/hero-bg.jpg');
   background-size: cover;
